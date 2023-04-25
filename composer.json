@@ -1,0 +1,11 @@
+{
+    "name": "egmr9/prueba",
+    "type": "project",
+    "authors": [
+        {
+            "name": "eder24m3za",
+            "email": "egmr.49@gmail.com"
+        }
+    ],
+    "require": {}
+}
